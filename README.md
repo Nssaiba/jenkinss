@@ -1,5 +1,6 @@
 Déclenchement automatique du pipeline via GitHub Webhook
 ![WhatsApp Image 2025-12-17 at 22 35 29](https://github.com/user-attachments/assets/676f0fa4-67b8-4e0e-a1a3-51008c29f376)
+Vue Stage View du pipeline Jenkins
 <img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/6f0c6f88-2236-4ec1-9f31-c23c6485d99e" />
 
 Exécution manuelle du pipeline Jenkins
